@@ -1,0 +1,35 @@
+name: Uppdatera skolmatskalender
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Kör varje morgon kl. 05:15 UTC
+    - cron: "15 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hämta repository
+        uses: actions/checkout@v4
+
+      - name: Installera Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Skapa kalender
+        run: python generate_calendar.py
+
+      - name: Spara uppdaterad kalender
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jarla-skolmat.ics
+          git diff --cached --quiet || git commit -m "Uppdatera skolmatskalender"
+          git push
