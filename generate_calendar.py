@@ -1,7 +1,7 @@
 import urllib.request
 import xml.etree.ElementTree as ET
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 from html import unescape
 
@@ -65,6 +65,7 @@ calendar = [
 
 for event_date, title, description in events:
     date_string = event_date.strftime("%Y%m%d")
+    end_date_string = (event_date + timedelta(days=1)).strftime("%Y%m%d")
 
     summary = title if title else "Skolmat"
     details = description if description else title
@@ -73,7 +74,7 @@ for event_date, title, description in events:
         "BEGIN:VEVENT",
         f"UID:{date_string}-jarla-skolmat",
         f"DTSTART;VALUE=DATE:{date_string}",
-        f"DTEND;VALUE=DATE:{date_string}",
+        f"DTEND;VALUE=DATE:{end_date_string}",
         f"SUMMARY:{escape_ical(summary)}",
         f"DESCRIPTION:{escape_ical(details)}",
         "END:VEVENT",
