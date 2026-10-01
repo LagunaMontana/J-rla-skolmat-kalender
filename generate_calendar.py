@@ -67,8 +67,8 @@ for event_date, title, description in events:
     date_string = event_date.strftime("%Y%m%d")
     end_date_string = (event_date + timedelta(days=1)).strftime("%Y%m%d")
 
-    summary = title if title else "Skolmat"
-    details = description if description else title
+    summary = f"🍽 {description.replace(chr(10), ' / ')}" if description else "🍽 Skolmat"
+    details = f"{title}\n{description}" if description else title
 
     calendar.extend([
         "BEGIN:VEVENT",
