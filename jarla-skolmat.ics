@@ -4,38 +4,38 @@ PRODID:-//Jarla Skolmat//SV
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Järla skolmat
 BEGIN:VEVENT
-UID:20260928-jarla-skolmat
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:🍽 Fläskfärs i ugn med Currysås och Ris\,  / Vegfärslåda
-DESCRIPTION:Måndag - Vecka 40\nFläskfärs i ugn med Currysås och Ris\, \nVegfärslåda
+UID:20261005-jarla-skolmat
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🍽 Korv med Pepparrotsås och Potatis\,  / Vegetarisk Stekkorv
+DESCRIPTION:Måndag - Vecka 41\nKorv med Pepparrotsås och Potatis\, \nVegetarisk Stekkorv
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-jarla-skolmat
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:🍽 Torsk med Äggsås och Potatis\,  / Böngryta
-DESCRIPTION:Tisdag - Vecka 40\nTorsk med Äggsås och Potatis\, \nBöngryta
+UID:20261006-jarla-skolmat
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🍽 Stekt Fisk med Dillmajonäs och Potatis\,  / Frasiga Grönsaker med Yoghurtdipp
+DESCRIPTION:Tisdag - Vecka 41\nStekt Fisk med Dillmajonäs och Potatis\, \nFrasiga Grönsaker med Yoghurtdipp
 END:VEVENT
 BEGIN:VEVENT
-UID:20260930-jarla-skolmat
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:🍽 Pasta med Ost och Skinksås\,  / Sås med Soltorkad Tomat
-DESCRIPTION:Onsdag - Vecka 40\nPasta med Ost och Skinksås\, \nSås med Soltorkad Tomat
+UID:20261007-jarla-skolmat
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🍽 Kycklingfrikadeller i Tomatsås med Risotto\,  / Sojafrikadeller
+DESCRIPTION:Onsdag - Vecka 41\nKycklingfrikadeller i Tomatsås med Risotto\, \nSojafrikadeller
 END:VEVENT
 BEGIN:VEVENT
-UID:20261001-jarla-skolmat
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:🍽 Potatis och Purjosoppa\,  / Bröd
-DESCRIPTION:Torsdag - Vecka 40\nPotatis och Purjosoppa\, \nBröd
+UID:20261008-jarla-skolmat
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🍽 Spaghetti med Bönor i Paprikasås
+DESCRIPTION:Torsdag - Vecka 41\nSpaghetti med Bönor i Paprikasås
 END:VEVENT
 BEGIN:VEVENT
-UID:20261002-jarla-skolmat
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:🍽 Nudelwok
-DESCRIPTION:Fredag - Vecka 40\nNudelwok
+UID:20261009-jarla-skolmat
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🍽 Taco
+DESCRIPTION:Fredag - Vecka 41\nTaco
 END:VEVENT
 END:VCALENDAR
