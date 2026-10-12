@@ -4,38 +4,10 @@ PRODID:-//Jarla Skolmat//SV
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Järla skolmat
 BEGIN:VEVENT
-UID:20261005-jarla-skolmat
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:🍽 Korv med Pepparrotsås och Potatis\,  / Vegetarisk Stekkorv
-DESCRIPTION:Måndag - Vecka 41\nKorv med Pepparrotsås och Potatis\, \nVegetarisk Stekkorv
-END:VEVENT
-BEGIN:VEVENT
-UID:20261006-jarla-skolmat
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:🍽 Stekt Fisk med Dillmajonäs och Potatis\,  / Frasiga Grönsaker med Yoghurtdipp
-DESCRIPTION:Tisdag - Vecka 41\nStekt Fisk med Dillmajonäs och Potatis\, \nFrasiga Grönsaker med Yoghurtdipp
-END:VEVENT
-BEGIN:VEVENT
-UID:20261007-jarla-skolmat
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:🍽 Kycklingfrikadeller i Tomatsås med Risotto\,  / Sojafrikadeller
-DESCRIPTION:Onsdag - Vecka 41\nKycklingfrikadeller i Tomatsås med Risotto\, \nSojafrikadeller
-END:VEVENT
-BEGIN:VEVENT
-UID:20261008-jarla-skolmat
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:🍽 Spaghetti med Bönor i Paprikasås
-DESCRIPTION:Torsdag - Vecka 41\nSpaghetti med Bönor i Paprikasås
-END:VEVENT
-BEGIN:VEVENT
-UID:20261009-jarla-skolmat
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:🍽 Taco
-DESCRIPTION:Fredag - Vecka 41\nTaco
+UID:20261012-jarla-skolmat
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🍽 Ingen meny tillgänglig
+DESCRIPTION:Vecka 42\nIngen meny tillgänglig
 END:VEVENT
 END:VCALENDAR
