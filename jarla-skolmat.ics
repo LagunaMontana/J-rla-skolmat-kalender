@@ -7,7 +7,35 @@ BEGIN:VEVENT
 UID:20261012-jarla-skolmat
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:🍽 Ingen meny tillgänglig
-DESCRIPTION:Vecka 42\nIngen meny tillgänglig
+SUMMARY:🍽 korvstroganoff med ris\,  / vegetarisk stroganoff
+DESCRIPTION:Måndag - Vecka 42\nkorvstroganoff med ris\, \nvegetarisk stroganoff
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013-jarla-skolmat
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🍽 fiskburgare med bröd och klyft potatis\,  / grönaburgare
+DESCRIPTION:Tisdag - Vecka 42\nfiskburgare med bröd och klyft potatis\, \ngrönaburgare
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-jarla-skolmat
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🍽 kyckling i oreganosås med havreris\,  / gryta med medelhavsgrönsaker
+DESCRIPTION:Onsdag - Vecka 42\nkyckling i oreganosås med havreris\, \ngryta med medelhavsgrönsaker
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015-jarla-skolmat
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🍽 nasigoreng\,  / chutneydressing
+DESCRIPTION:Torsdag - Vecka 42\nnasigoreng\, \nchutneydressing
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016-jarla-skolmat
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🍽 wallenbergare med mos ärtor o lingon\,  / vegfärsbiff
+DESCRIPTION:Fredag - Vecka 42\nwallenbergare med mos ärtor o lingon\, \nvegfärsbiff
 END:VEVENT
 END:VCALENDAR
