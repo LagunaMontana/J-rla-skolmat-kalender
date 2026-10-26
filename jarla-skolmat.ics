@@ -4,38 +4,10 @@ PRODID:-//Jarla Skolmat//SV
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Järla skolmat
 BEGIN:VEVENT
-UID:20261019-jarla-skolmat
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:🍽 Falukorv med Stuvade Makaroner\,  / Vegetarisk Choritzo
-DESCRIPTION:Måndag - Vecka 43\nFalukorv med Stuvade Makaroner\, \nVegetarisk Choritzo
-END:VEVENT
-BEGIN:VEVENT
-UID:20261020-jarla-skolmat
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:🍽 Basilikabakad Fisk med Yoghurtsås\,  / Gratäng med Linser
-DESCRIPTION:Tisdag - Vecka 43\nBasilikabakad Fisk med Yoghurtsås\, \nGratäng med Linser
-END:VEVENT
-BEGIN:VEVENT
-UID:20261021-jarla-skolmat
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:🍽 Pasta med Bacon och Tomat\,  / Rostade Kikärtor
-DESCRIPTION:Onsdag - Vecka 43\nPasta med Bacon och Tomat\, \nRostade Kikärtor
-END:VEVENT
-BEGIN:VEVENT
-UID:20261022-jarla-skolmat
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:🍽 Önskedag 3or\,  / Schnitzel med Stekt Potatis
-DESCRIPTION:Torsdag - Vecka 43\nÖnskedag 3or\, \nSchnitzel med Stekt Potatis
-END:VEVENT
-BEGIN:VEVENT
-UID:20261023-jarla-skolmat
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:🍽 Studiedag
-DESCRIPTION:Fredag - Vecka 43\nStudiedag
+UID:20261026-jarla-skolmat
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🍽 Ingen meny tillgänglig
+DESCRIPTION:Vecka 44\nIngen meny tillgänglig
 END:VEVENT
 END:VCALENDAR
