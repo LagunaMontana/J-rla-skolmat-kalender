@@ -4,10 +4,38 @@ PRODID:-//Jarla Skolmat//SV
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Järla skolmat
 BEGIN:VEVENT
-UID:20261101-jarla-skolmat
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:🍽 Ingen meny tillgänglig
-DESCRIPTION:Vecka 44\nIngen meny tillgänglig
+UID:20261102-jarla-skolmat
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🍽 Pytt i Panna med Rödbetor\,  / Vegetarisk Pytt
+DESCRIPTION:Måndag - Vecka 45\nPytt i Panna med Rödbetor\, \nVegetarisk Pytt
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-jarla-skolmat
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🍽 Fisk och Skaldjursgryta med Aioli och Potatis\,  / Baljväxtgryta
+DESCRIPTION:Tisdag - Vecka 45\nFisk och Skaldjursgryta med Aioli och Potatis\, \nBaljväxtgryta
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104-jarla-skolmat
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🍽 Pasta med Ost och Skinksås\,  / Soltorkad Tomat
+DESCRIPTION:Onsdag - Vecka 45\nPasta med Ost och Skinksås\, \nSoltorkad Tomat
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105-jarla-skolmat
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🍽 Poke Bowl
+DESCRIPTION:Torsdag - Vecka 45\nPoke Bowl
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106-jarla-skolmat
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🍽 4ornas Önskefredag
+DESCRIPTION:Fredag - Vecka 45\n4ornas Önskefredag
 END:VEVENT
 END:VCALENDAR
