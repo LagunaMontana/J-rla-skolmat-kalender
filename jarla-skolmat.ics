@@ -4,38 +4,10 @@ PRODID:-//Jarla Skolmat//SV
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Järla skolmat
 BEGIN:VEVENT
-UID:20261109-jarla-skolmat
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:🍽 Tortellini i Tomatsås\,  / Olivsallad
-DESCRIPTION:Måndag - Vecka 46\nTortellini i Tomatsås\, \nOlivsallad
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-jarla-skolmat
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:🍽 Stekt Fisk med Dillmajonäs\,  / Vegetariskabiffar
-DESCRIPTION:Tisdag - Vecka 46\nStekt Fisk med Dillmajonäs\, \nVegetariskabiffar
-END:VEVENT
-BEGIN:VEVENT
-UID:20261111-jarla-skolmat
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:🍽 Kycklingcurry med Ris\,  / Kikärtscurry
-DESCRIPTION:Onsdag - Vecka 46\nKycklingcurry med Ris\, \nKikärtscurry
-END:VEVENT
-BEGIN:VEVENT
-UID:20261112-jarla-skolmat
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:🍽 Nudelwok
-DESCRIPTION:Torsdag - Vecka 46\nNudelwok
-END:VEVENT
-BEGIN:VEVENT
-UID:20261113-jarla-skolmat
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:🍽 Kålpudding med Gräddsås och Lingon\,  / Kålpudding på vegfärs
-DESCRIPTION:Fredag - Vecka 46\nKålpudding med Gräddsås och Lingon\, \nKålpudding på vegfärs
+UID:20261116-jarla-skolmat
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🍽 Ingen meny tillgänglig
+DESCRIPTION:Vecka 47\nIngen meny tillgänglig
 END:VEVENT
 END:VCALENDAR
